@@ -83,9 +83,3 @@ Este proyecto utiliza **Poetry** para la gestión de dependencias.
     ```
 
 4.  Abrir `notebooks/Pruebas.ipynb` para ver el análisis completo.
-
-## Próximos Pasos
-
-- Contenerizar la aplicación para su despliegue (Docker).
-- Crear pruebas unitarias para el servicio de predicción.
-- Mejorar la interfaz de usuario (frontend).
